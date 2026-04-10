@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>school-form | Vyhledávání ve školských právnických osobách</title>
+  <link rel="stylesheet" href="css.naseptavac.css" />
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1 {
+      font-size: 1.6rem;
+      margin-bottom: 4px;
+    }
+    p.subtitle {
+      color: #555;
+      margin-bottom: 24px;
+    }
+    label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+    #school-input {
+      width: 100%;
+      padding: 8px 10px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+  <h1>school-form</h1>
+  <p class="subtitle">Vyhledávání ve školských právnických osobách</p>
+
+  <label for="school-input">Vyber školu</label>
+
+  <div class="autocomplete-wrapper">
+    <input
+      id="school-input"
+      type="text"
+      placeholder="Začni psát název školy…"
+      autocomplete="off"
+    />
+    <ul id="school-suggestions"></ul>
+  </div>
+
+  <input type="hidden" id="school-redizo" />
+
+  <script>
+    let schools = [];
+    let selectedRedizo = null;
+
+    const input = document.getElementById("school-input");
+    const list = document.getElementById("school-suggestions");
+    const hidden = document.getElementById("school-redizo");
+
+    fetch("schools.json")
+      .then(res => res.json())
+      .then(data => {
+        schools = data.filter(s => s.active);
+      });
+
+    input.addEventListener("input", () => {
+      const query = input.value.toLowerCase();
+      list.innerHTML = "";
+      selectedRedizo = null;
+      hidden.value = "";
+
+      if (query.length < 2) return;
+
+      const matches = schools
+        .filter(s => s.name.toLowerCase().includes(query))
+        .slice(0, 10);
+
+      matches.forEach(school => {
+        const li = document.createElement("li");
+        li.textContent = `${school.name} (${school.city})`;
+        li.dataset.redizo = school.redizo;
+
+        li.onclick = () => {
+          input.value = school.name;
+          selectedRedizo = school.redizo;
+          hidden.value = school.redizo;
+          list.innerHTML = "";
+        };
+
+        list.appendChild(li);
+      });
+    });
+
+    input.addEventListener("blur", () => {
+      setTimeout(() => {
+        if (!hidden.value) {
+          input.value = "";
+        }
+      }, 200);
+    });
+
+    document.addEventListener("click", e => {
+      if (!e.target.closest(".autocomplete-wrapper")) {
+        list.innerHTML = "";
+      }
+    });
+  </script>
+</body>
+</html>
