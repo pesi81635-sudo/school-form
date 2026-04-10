@@ -1,0 +1,3193 @@
+  {
+    "redizo": "600000206",
+    "name": "Mateřská škola sv. Voršily v Praze",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600000222",
+    "name": "Církevní mateřská škola Studánka",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600000249",
+    "name": "Církevní mateřská škola Srdíčko",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600000290",
+    "name": "Katolická mateřská škola sv. Klimenta",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600000303",
+    "name": "Církevní mateřská škola Laura",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600000346",
+    "name": "ARCHA základní škola a mateřská škola při Církvi československé husitské",
+    "type": "MŠ",
+    "city": "Petroupim",
+    "active": true
+  },
+  {
+    "redizo": "600000362",
+    "name": "Katolická mateřská škola",
+    "type": "MŠ",
+    "city": "Beroun",
+    "active": true
+  },
+  {
+    "redizo": "600000371",
+    "name": "Církevní mateřská škola Radost",
+    "type": "MŠ",
+    "city": "Kladno",
+    "active": true
+  },
+  {
+    "redizo": "600000451",
+    "name": "Církevní mateřská škola České Budějovice, Lipenská 3",
+    "type": "MŠ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "600000460",
+    "name": "Církevní mateřská škola  „U sv. Josefa“",
+    "type": "MŠ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "600000494",
+    "name": "Církevní mateřská škola Jonáš",
+    "type": "MŠ",
+    "city": "Pacov",
+    "active": true
+  },
+  {
+    "redizo": "600000524",
+    "name": "Církevní mateřská škola Rybička",
+    "type": "MŠ",
+    "city": "Tábor",
+    "active": true
+  },
+  {
+    "redizo": "600000664",
+    "name": "Soukromá mateřská škola Bambino",
+    "type": "MŠ",
+    "city": "Světlá nad Sázavou",
+    "active": true
+  },
+  {
+    "redizo": "600001008",
+    "name": "Církevní mateřská škola Ludgeřovice, Nádražní 495",
+    "type": "MŠ",
+    "city": "Ludgeřovice",
+    "active": true
+  },
+  {
+    "redizo": "600001083",
+    "name": "Základní škola sv. Voršily v Praze",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600001091",
+    "name": "Veselá škola - církevní základní škola a základní umělecká škola",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600001121",
+    "name": "Základní škola Klíček",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600001148",
+    "name": "Bratrská škola - církevní základní škola",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600001199",
+    "name": "Základní škola Maltézských rytířů",
+    "type": "ZŠ",
+    "city": "Kladno",
+    "active": true
+  },
+  {
+    "redizo": "600001288",
+    "name": "Církevní základní škola ORBIS-PICTUS",
+    "type": "ZŠ",
+    "city": "Tábor",
+    "active": true
+  },
+  {
+    "redizo": "600001369",
+    "name": "Základní škola svaté Zdislavy",
+    "type": "ZŠ",
+    "city": "Jablonec nad Nisou",
+    "active": true
+  },
+  {
+    "redizo": "600001385",
+    "name": "Křesťanská základní škola  a mateřská škola J. A. Komenského",
+    "type": "MŠ",
+    "city": "Liberec",
+    "active": true
+  },
+  {
+    "redizo": "600001431",
+    "name": "Biskupské gymnázium, Základní škola a Mateřská škola Bohosudov",
+    "type": "MŠ",
+    "city": "Krupka",
+    "active": true
+  },
+  {
+    "redizo": "600001458",
+    "name": "Základní škola a mateřská škola Jana Pavla II., Hradec Králové",
+    "type": "MŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "600001482",
+    "name": "Církevní základní škola Borohrádek",
+    "type": "ZŠ",
+    "city": "Borohrádek",
+    "active": true
+  },
+  {
+    "redizo": "600001539",
+    "name": "Cyrilometodějská církevní základní škola, Lerchova 65, Brno",
+    "type": "ZŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600001636",
+    "name": "Církevní základní škola a mateřská škola ve Zlíně",
+    "type": "MŠ",
+    "city": "Zlín",
+    "active": true
+  },
+  {
+    "redizo": "600001644",
+    "name": "Křesťanská základní škola Jihlava",
+    "type": "ZŠ",
+    "city": "Jihlava",
+    "active": true
+  },
+  {
+    "redizo": "600001679",
+    "name": "Základní škola AMOS, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Bruntál",
+    "active": true
+  },
+  {
+    "redizo": "600001695",
+    "name": "Základní škola svaté Zdislavy Kopřivnice",
+    "type": "ZŠ",
+    "city": "Kopřivnice",
+    "active": true
+  },
+  {
+    "redizo": "600001709",
+    "name": "Základní škola sv. Voršily v Olomouci",
+    "type": "ZŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "600001717",
+    "name": "Církevní základní škola svaté Ludmily v Hradci nad Moravicí",
+    "type": "ZŠ",
+    "city": "Hradec nad Moravicí",
+    "active": true
+  },
+  {
+    "redizo": "600001733",
+    "name": "Církevní základní škola a mateřská škola Přemysla Pittra",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "600001784",
+    "name": "Základní škola Salvátor",
+    "type": "ZŠ",
+    "city": "Valašské Meziříčí",
+    "active": true
+  },
+  {
+    "redizo": "600003931",
+    "name": "Základní umělecká škola duchovní hudby Frýdek - Místek",
+    "type": "ZUŠ",
+    "city": "Frýdek-Místek",
+    "active": true
+  },
+  {
+    "redizo": "600004571",
+    "name": "Evangelikální teologický seminář - Vyšší odborná škola teologická a sociální",
+    "type": "VOŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600004791",
+    "name": "Arcibiskupské gymnázium",
+    "type": "GYM",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600004902",
+    "name": "Střední odborná škola sociální svaté Zdislavy",
+    "type": "SŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600005429",
+    "name": "Evangelická akademie - pedagogické lyceum a střední odborná škola",
+    "type": "SŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600006077",
+    "name": "Církevní střední škola Jana Boska",
+    "type": "SŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600006476",
+    "name": "Křesťanské gymnázium",
+    "type": "GYM",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600006549",
+    "name": "Pražské humanitní gymnázium, školská právnická osoba",
+    "type": "GYM",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600007154",
+    "name": "Dvouletá katolická střední škola a mateřská škola",
+    "type": "MŠ",
+    "city": "Kolín",
+    "active": true
+  },
+  {
+    "redizo": "600007197",
+    "name": "Církevní gymnázium sv. Voršily",
+    "type": "GYM",
+    "city": "Kutná Hora",
+    "active": true
+  },
+  {
+    "redizo": "600008088",
+    "name": "Biskupské gymnázium J. N. Neumanna, církevní základní škola a základní umělecká škola České Budějovice",
+    "type": "ZŠ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "600009025",
+    "name": "Soukromá střední škola drogistická",
+    "type": "SŠ",
+    "city": "Mariánské Lázně",
+    "active": true
+  },
+  {
+    "redizo": "600009611",
+    "name": "Církevní gymnázium Plzeň",
+    "type": "GYM",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "600009785",
+    "name": "Církevní základní škola a střední škola Plzeň",
+    "type": "ZŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "600010163",
+    "name": "Gymnázium Varnsdorf",
+    "type": "GYM",
+    "city": "Varnsdorf",
+    "active": true
+  },
+  {
+    "redizo": "600011186",
+    "name": "Biskupské gymnázium Krupka 1 - Bohosudov",
+    "type": "GYM",
+    "city": "Krupka",
+    "active": true
+  },
+  {
+    "redizo": "600011640",
+    "name": "Biskupské gymnázium Bohuslava Balbína, Hradec Králové",
+    "type": "GYM",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "600012247",
+    "name": "Střední zdravotnická škola Náchod - Evangelická akademie",
+    "type": "SŠ",
+    "city": "Náchod",
+    "active": true
+  },
+  {
+    "redizo": "600013375",
+    "name": "Biskupské gymnázium Letovice",
+    "type": "GYM",
+    "city": "Letovice",
+    "active": true
+  },
+  {
+    "redizo": "600013405",
+    "name": "Biskupské gymnázium Brno a mateřská škola",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600013740",
+    "name": "Cyrilometodějské gymnázium a střední odborná škola pedagogická Brno",
+    "type": "GYM",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600013961",
+    "name": "PORG Brno - gymnázium, základní škola, základní umělecká škola a jeho zařízení, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600013995",
+    "name": "Dvouletá katolická střední škola Brno - v likvidaci",
+    "type": "SŠ",
+    "city": "Modřice",
+    "active": true
+  },
+  {
+    "redizo": "600014771",
+    "name": "Střední odborná škola sociální u Matky Boží Jihlava",
+    "type": "SŠ",
+    "city": "Jihlava",
+    "active": true
+  },
+  {
+    "redizo": "600015025",
+    "name": "Konzervatoř Evangelické akademie",
+    "type": "JINÉ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "600015033",
+    "name": "Arcibiskupské gymnázium v Kroměříži",
+    "type": "GYM",
+    "city": "Kroměříž",
+    "active": true
+  },
+  {
+    "redizo": "600015211",
+    "name": "Cyrilometodějské gymnázium, základní škola a mateřská škola v Prostějově",
+    "type": "MŠ",
+    "city": "Prostějov",
+    "active": true
+  },
+  {
+    "redizo": "600015327",
+    "name": "Katolické gymnázium Třebíč",
+    "type": "GYM",
+    "city": "Třebíč",
+    "active": true
+  },
+  {
+    "redizo": "600015491",
+    "name": "Církevní střední škola pedagogická a sociální Bojkovice",
+    "type": "SŠ",
+    "city": "Bojkovice",
+    "active": true
+  },
+  {
+    "redizo": "600015831",
+    "name": "Biskupské gymnázium",
+    "type": "GYM",
+    "city": "Žďár nad Sázavou",
+    "active": true
+  },
+  {
+    "redizo": "600015882",
+    "name": "Střední škola Adolpha Kolpinga, školská právnická osoba",
+    "type": "SŠ",
+    "city": "Žďár nad Sázavou",
+    "active": true
+  },
+  {
+    "redizo": "600016838",
+    "name": "Střední pedagogická škola a Střední zdravotnická škola svaté Anežky České",
+    "type": "SŠ",
+    "city": "Odry",
+    "active": true
+  },
+  {
+    "redizo": "600017036",
+    "name": "CÍRKEVNÍ GYMNÁZIUM NĚMECKÉHO ŘÁDU",
+    "type": "GYM",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "600017541",
+    "name": "Biskupské gymnázium v Ostravě",
+    "type": "GYM",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "600017931",
+    "name": "Střední odborná škola Hranice, školská právnická osoba",
+    "type": "SŠ",
+    "city": "Hranice",
+    "active": true
+  },
+  {
+    "redizo": "600019454",
+    "name": "Církevní střední zdravotnická škola Jana Pavla II.",
+    "type": "SŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600019853",
+    "name": "Střední zdravotnická škola Evangelické akademie",
+    "type": "SŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600020126",
+    "name": "Vyšší odborná škola publicistiky",
+    "type": "VOŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600020169",
+    "name": "JABOK - Vyšší odborná škola sociálně pedagogická a teologická",
+    "type": "VOŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600020193",
+    "name": "Svatojánská kolej - vyšší odborná škola pedagogická",
+    "type": "VOŠ",
+    "city": "Svatý Jan pod Skalou",
+    "active": true
+  },
+  {
+    "redizo": "600020215",
+    "name": "Vyšší odborná škola misijní a teologická, v likvidaci",
+    "type": "VOŠ",
+    "city": "Kolín",
+    "active": false
+  },
+  {
+    "redizo": "600020223",
+    "name": "Teologický seminář Církve adventistů sedmého dne v Sázavě - Institut teologických studií a Vyšší odborná škola teologická a pastoračně sociální - v likvidaci",
+    "type": "VOŠ",
+    "city": "Úžice",
+    "active": true
+  },
+  {
+    "redizo": "600020444",
+    "name": "Vyšší odborná škola biblická Evangelické akademie",
+    "type": "VOŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "600020479",
+    "name": "Evangelická akademie, Vyšší odborná škola sociálně právní",
+    "type": "VOŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600020576",
+    "name": "CARITAS - Vyšší odborná škola sociální Olomouc",
+    "type": "VOŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "600020584",
+    "name": "EUROPEAN COLLEGE, vyšší odborná škola Olomouc",
+    "type": "VOŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "600020592",
+    "name": "AHOL - Vyšší odborná škola",
+    "type": "VOŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "600020649",
+    "name": "Vyšší odborná škola zdravotnická Suverénního řádu maltézských rytířů",
+    "type": "VOŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600020711",
+    "name": "Dívčí katolická střední škola ",
+    "type": "SŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600020860",
+    "name": "Mateřská škola a základní škola speciální Diakonie ČCE Praha",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600021033",
+    "name": "Mateřská škola a základní škola speciální Diakonie ČCE Praha 5",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600021254",
+    "name": "Církevní základní škola logopedická Don Bosco a mateřská škola logopedická",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600021319",
+    "name": "Základní škola speciální Diakonie ČCE Praha 10",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600021807",
+    "name": "Mateřská škola speciální, Základní škola a Praktická škola Diakonie ČCE Čáslav",
+    "type": "MŠ",
+    "city": "Čáslav",
+    "active": true
+  },
+  {
+    "redizo": "600022706",
+    "name": "Mateřská škola, základní škola speciální a praktická škola Diakonie ČCE Rolnička Soběslav",
+    "type": "MŠ",
+    "city": "Soběslav",
+    "active": true
+  },
+  {
+    "redizo": "600022994",
+    "name": "Základní škola speciální a Praktická škola Diakonie ČCE Merklín",
+    "type": "ZŠ",
+    "city": "Merklín",
+    "active": true
+  },
+  {
+    "redizo": "600024407",
+    "name": "Církevní základní škola speciální a Praktická škola Rváček",
+    "type": "ZŠ",
+    "city": "Lomnice nad Popelkou",
+    "active": true
+  },
+  {
+    "redizo": "600024636",
+    "name": "Základní škola speciální a praktická škola Diakonie ČCE Vrchlabí",
+    "type": "ZŠ",
+    "city": "Vrchlabí",
+    "active": true
+  },
+  {
+    "redizo": "600026833",
+    "name": "Mateřská škola, základní škola speciální a praktická škola Diakonie ČCE Ostrava",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "600027317",
+    "name": "Katolický domov studujících - domov mládeže a školní jídelna ",
+    "type": "JINÉ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600028232",
+    "name": "Domov mládeže Petrinum",
+    "type": "JINÉ",
+    "city": "Písek",
+    "active": true
+  },
+  {
+    "redizo": "600029221",
+    "name": "Teologický konvikt - domov mládeže a školní jídelna",
+    "type": "JINÉ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "600029565",
+    "name": "Církevní domov mládeže a školní jídelna - výdejna",
+    "type": "JINÉ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "600030130",
+    "name": "Církevní domov mládeže Petrinum",
+    "type": "JINÉ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600030229",
+    "name": "Salesiánské středisko mládeže - dům dětí a mládeže Brno - Žabovřesky",
+    "type": "JINÉ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "600031390",
+    "name": "Církevní středisko volného času sv. Jana Boska v Havířově",
+    "type": "JINÉ",
+    "city": "Havířov",
+    "active": true
+  },
+  {
+    "redizo": "600031764",
+    "name": "Salesiánské středisko volného času Don Bosco",
+    "type": "JINÉ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "600032311",
+    "name": "Křesťanská pedagogicko-psychologická poradna",
+    "type": "JINÉ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "600033244",
+    "name": "Salesiánské středisko mládeže - dům dětí a mládeže Plzeň",
+    "type": "JINÉ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "600052362",
+    "name": "Základní škola Úvaly",
+    "type": "ZŠ",
+    "city": "Úvaly",
+    "active": true
+  },
+  {
+    "redizo": "600052575",
+    "name": "Základní škola a Mateřská škola LetMo, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Lety",
+    "active": true
+  },
+  {
+    "redizo": "600118592",
+    "name": "Církevní základní škola v Kroměříži",
+    "type": "ZŠ",
+    "city": "Kroměříž",
+    "active": true
+  },
+  {
+    "redizo": "610100840",
+    "name": "Biskupské gymnázium Skuteč",
+    "type": "GYM",
+    "city": "Skuteč",
+    "active": true
+  },
+  {
+    "redizo": "610150359",
+    "name": "Salesiánské středisko mládeže - dům dětí a mládeže České Budějovice",
+    "type": "JINÉ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "610300814",
+    "name": "Mateřská škola, základní škola a střední škola Slezské diakonie",
+    "type": "MŠ",
+    "city": "Český Těšín",
+    "active": true
+  },
+  {
+    "redizo": "610380061",
+    "name": "Lauderova mateřská škola, základní škola a gymnázium při Židovské obci v Praze",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "610400894",
+    "name": "Salesiánské středisko volného času Teplice",
+    "type": "JINÉ",
+    "city": "Teplice",
+    "active": true
+  },
+  {
+    "redizo": "610501151",
+    "name": "Dětský domov bl. Marie Antoníny Kratochvílové, Řepiště",
+    "type": "JINÉ",
+    "city": "Řepiště",
+    "active": true
+  },
+  {
+    "redizo": "610550659",
+    "name": "Církevní konzervatoř Německého řádu",
+    "type": "JINÉ",
+    "city": "Opava",
+    "active": true
+  },
+  {
+    "redizo": "610550900",
+    "name": "Mateřská škola, základní škola a střední škola Slezské diakonie Krnov",
+    "type": "MŠ",
+    "city": "Krnov",
+    "active": true
+  },
+  {
+    "redizo": "650007786",
+    "name": "Církevní dětský domov Emanuel, Stará Ves",
+    "type": "JINÉ",
+    "city": "Stará Ves",
+    "active": true
+  },
+  {
+    "redizo": "650059964",
+    "name": "Základní škola Sion J. A. Komenského, Hradec Králové",
+    "type": "ZŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "650067231",
+    "name": "Stojanovo gymnázium, Velehrad",
+    "type": "GYM",
+    "city": "Velehrad",
+    "active": true
+  },
+  {
+    "redizo": "650069021",
+    "name": "VÍTKOVICKÁ STŘEDNÍ PRŮMYSLOVÁ ŠKOLA",
+    "type": "SŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "650077342",
+    "name": "Církevní základní škola a mateřská škola Třinec",
+    "type": "MŠ",
+    "city": "Třinec",
+    "active": true
+  },
+  {
+    "redizo": "651002834",
+    "name": "Vyšší odborná škola Husův institut teologických studií",
+    "type": "VOŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "651009227",
+    "name": "Základní škola a mateřská škola Regionu Karlovarský venkov",
+    "type": "MŠ",
+    "city": "Sadov",
+    "active": true
+  },
+  {
+    "redizo": "651015227",
+    "name": "Katolická základní škola v Uherském Brodě",
+    "type": "ZŠ",
+    "city": "Uherský Brod",
+    "active": true
+  },
+  {
+    "redizo": "651017459",
+    "name": "Střední škola - Podorlické vzdělávací centrum, Dobruška",
+    "type": "SŠ",
+    "city": "Dobruška",
+    "active": true
+  },
+  {
+    "redizo": "651018463",
+    "name": "BONI PUERI - základní umělecká škola, Hradec Králové",
+    "type": "ZUŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "651027888",
+    "name": "Manažerská akademie, soukromá střední škola",
+    "type": "SŠ",
+    "city": "Beroun",
+    "active": true
+  },
+  {
+    "redizo": "651027896",
+    "name": "Soukromá základní umělecká škola Dr. Lidinské",
+    "type": "ZUŠ",
+    "city": "Beroun",
+    "active": true
+  },
+  {
+    "redizo": "651028922",
+    "name": "1. Slovanské gymnázium a jazyková škola s právem státní jazykové zkoušky",
+    "type": "GYM",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "651035741",
+    "name": "Střední škola stavební - HORSTAV",
+    "type": "SŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "651035759",
+    "name": "AHOL - Střední škola gastronomie, turismu a lázeňství",
+    "type": "SŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "651036020",
+    "name": "Střední odborná škola ITEC",
+    "type": "SŠ",
+    "city": "Kladno",
+    "active": true
+  },
+  {
+    "redizo": "651036062",
+    "name": "Akademie SOUVIN, střední škola",
+    "type": "SŠ",
+    "city": "Vinařice",
+    "active": true
+  },
+  {
+    "redizo": "651038197",
+    "name": "Základní škola speciální Royal Rangers při Středisku Víteček",
+    "type": "ZŠ",
+    "city": "Olbramov",
+    "active": true
+  },
+  {
+    "redizo": "651039720",
+    "name": "Křesťanská základní škola Nativity",
+    "type": "ZŠ",
+    "city": "Děčín",
+    "active": true
+  },
+  {
+    "redizo": "651039860",
+    "name": "Základní škola a Mateřská škola Údolí Desné",
+    "type": "MŠ",
+    "city": "Rapotín",
+    "active": true
+  },
+  {
+    "redizo": "651040001",
+    "name": "Křesťanská střední škola, základní škola a mateřská škola Elijáš, Praha 4 - Michle",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "651040060",
+    "name": "Střední škola, základní škola a mateřská škola Monty School",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "651040604",
+    "name": "Církevní základní škola ve Veselí nad Moravou",
+    "type": "ZŠ",
+    "city": "Veselí nad Moravou",
+    "active": true
+  },
+  {
+    "redizo": "651040710",
+    "name": "Brána, střední škola, základní škola a mateřská škola",
+    "type": "MŠ",
+    "city": "Nová Paka",
+    "active": true
+  },
+  {
+    "redizo": "651040809",
+    "name": "Křesťanská Základní škola a Mateřská škola Jana Husa",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "661102173",
+    "name": "1. Slovanská mateřská škola",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "661102513",
+    "name": "Soukromá mateřská škola a základní škola Petrklíč",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "662100051",
+    "name": "Mateřská škola Klubíčko, Boseň",
+    "type": "MŠ",
+    "city": "Boseň",
+    "active": true
+  },
+  {
+    "redizo": "662104307",
+    "name": "Mateřská škola Bambinárium",
+    "type": "MŠ",
+    "city": "Řevnice",
+    "active": true
+  },
+  {
+    "redizo": "662104561",
+    "name": "Mateřská škola Ottománek",
+    "type": "MŠ",
+    "city": "Černošice",
+    "active": true
+  },
+  {
+    "redizo": "668100915",
+    "name": "Mateřská škola Sion, Hradec Králové",
+    "type": "MŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "670101010",
+    "name": "Zařízení školního stravování při Nemocnici Počátky - v likvidaci",
+    "type": "JINÉ",
+    "city": "Počátky",
+    "active": true
+  },
+  {
+    "redizo": "671104055",
+    "name": "Salesiánské středisko mládeže - dům dětí a mládeže Brno-Líšeň",
+    "type": "JINÉ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691000051",
+    "name": "Středisko praktického vyučování PBS Velká Bíteš",
+    "type": "JINÉ",
+    "city": "Velká Bíteš",
+    "active": true
+  },
+  {
+    "redizo": "691000280",
+    "name": "Mateřská škola Medvídek",
+    "type": "MŠ",
+    "city": "Ústí nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691000298",
+    "name": "Mateřská škola Klaudinka - v likvidaci",
+    "type": "MŠ",
+    "city": "Mladá Boleslav",
+    "active": true
+  },
+  {
+    "redizo": "691000361",
+    "name": "Domov mládeže při FC VYSOČINA JIHLAVA, a.s.",
+    "type": "JINÉ",
+    "city": "Jihlava",
+    "active": true
+  },
+  {
+    "redizo": "691000395",
+    "name": "Střední odborné učiliště potravinářské Krásno",
+    "type": "SŠ",
+    "city": "Valašské Meziříčí",
+    "active": true
+  },
+  {
+    "redizo": "691000531",
+    "name": "Mateřská škola Green Tree - v likvidaci",
+    "type": "MŠ",
+    "city": "Ústí nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691000549",
+    "name": "Gymnázium, základní škola a mateřská škola Parentes Praha",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691000557",
+    "name": "Kouzelné školy - mateřská škola a základní škola",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691000581",
+    "name": "Základní umělecká škola Elementária",
+    "type": "ZUŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691000662",
+    "name": "Střední průmyslová škola Třineckých železáren",
+    "type": "SŠ",
+    "city": "Třinec",
+    "active": true
+  },
+  {
+    "redizo": "691000719",
+    "name": "Gymnázium Suverénního řádu maltézských rytířů ve Skutči",
+    "type": "GYM",
+    "city": "Skuteč",
+    "active": true
+  },
+  {
+    "redizo": "691000794",
+    "name": "Biskupské gymnázium, církevní základní škola, mateřská škola a základní umělecká škola Hradec Králové",
+    "type": "MŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691001073",
+    "name": "Základní škola a mateřská škola Srdcovka",
+    "type": "MŠ",
+    "city": "Třebosice",
+    "active": true
+  },
+  {
+    "redizo": "691001081",
+    "name": "Mateřská škola a Základní škola Klíček",
+    "type": "MŠ",
+    "city": "Krnov",
+    "active": true
+  },
+  {
+    "redizo": "691001090",
+    "name": "PLANETKA - Montessori mateřská škola",
+    "type": "MŠ",
+    "city": "Frýdek-Místek",
+    "active": true
+  },
+  {
+    "redizo": "691001154",
+    "name": "Základní umělecká škola JITRO Hradec Králové",
+    "type": "ZUŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691001162",
+    "name": "Základní umělecká škola BONIFANTES",
+    "type": "ZUŠ",
+    "city": "Pardubice",
+    "active": true
+  },
+  {
+    "redizo": "691001502",
+    "name": "Mateřská škola Děvčátka Momo",
+    "type": "MŠ",
+    "city": "Slatiňany",
+    "active": true
+  },
+  {
+    "redizo": "691001529",
+    "name": "Střední škola, základní škola a mateřská škola da Vinci",
+    "type": "MŠ",
+    "city": "Dolní Břežany",
+    "active": true
+  },
+  {
+    "redizo": "691001651",
+    "name": "Mateřská škola JUTA",
+    "type": "MŠ",
+    "city": "Dvůr Králové nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691001669",
+    "name": "Mateřská škola sv. Josefa v Kojetíně",
+    "type": "MŠ",
+    "city": "Kojetín",
+    "active": true
+  },
+  {
+    "redizo": "691001685",
+    "name": "Církevní mateřská škola v Přerově",
+    "type": "MŠ",
+    "city": "Přerov",
+    "active": true
+  },
+  {
+    "redizo": "691001812",
+    "name": "Mateřská škola Kvítek",
+    "type": "MŠ",
+    "city": "Jihlava",
+    "active": true
+  },
+  {
+    "redizo": "691001855",
+    "name": "Vyšší odborná škola Mediální tvorby",
+    "type": "VOŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "691001871",
+    "name": "Církevní mateřská škola Svatojánek v Litovli",
+    "type": "MŠ",
+    "city": "Litovel",
+    "active": true
+  },
+  {
+    "redizo": "691001910",
+    "name": "Mateřská škola Jitřenka",
+    "type": "MŠ",
+    "city": "Vyžlovka",
+    "active": true
+  },
+  {
+    "redizo": "691001979",
+    "name": "Soukromá mateřská škola Plzeň - Božkov",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691002126",
+    "name": "Církevní mateřská škola Ovečka v Olomouci",
+    "type": "MŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691002134",
+    "name": "Křesťanská mateřská škola Karolínka ve Slavkově u Brna",
+    "type": "MŠ",
+    "city": "Slavkov u Brna",
+    "active": true
+  },
+  {
+    "redizo": "691002207",
+    "name": "Základní škola a gymnázium Navis",
+    "type": "ZŠ",
+    "city": "Světice",
+    "active": true
+  },
+  {
+    "redizo": "691002568",
+    "name": "NOE - Křesťanská základní škola a mateřská škola v Pardubicích",
+    "type": "MŠ",
+    "city": "Pardubice",
+    "active": true
+  },
+  {
+    "redizo": "691002673",
+    "name": "Střední škola VIZE, v likvidaci",
+    "type": "SŠ",
+    "city": "Jiřice",
+    "active": false
+  },
+  {
+    "redizo": "691002681",
+    "name": "Mateřská škola Heřmánek",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691002843",
+    "name": "Soukromá základní škola a mateřská škola Svět",
+    "type": "MŠ",
+    "city": "Děčín",
+    "active": true
+  },
+  {
+    "redizo": "691002860",
+    "name": "Univerzitní základní škola a mateřská škola Lvíčata",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691002916",
+    "name": "Mateřská škola - Miniškolka Sluníčko, Karlík - v likvidaci",
+    "type": "MŠ",
+    "city": "Karlík",
+    "active": true
+  },
+  {
+    "redizo": "691002924",
+    "name": "Mateřská škola Čtyřlístek, Červený Újezd - v likvidaci",
+    "type": "MŠ",
+    "city": "Červený Újezd",
+    "active": true
+  },
+  {
+    "redizo": "691003050",
+    "name": "Mateřská škola, základní škola a gymnázium sv. Augustina",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691003084",
+    "name": "Soukromá mateřská škola Zvoneček, Karlík",
+    "type": "MŠ",
+    "city": "Karlík",
+    "active": true
+  },
+  {
+    "redizo": "691003122",
+    "name": "Mateřská škola kardinála Berana Plzeň",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691003343",
+    "name": "Zařízení pro další vzdělávání pedagogických pracovníků Sofia",
+    "type": "JINÉ",
+    "city": "Děčín",
+    "active": true
+  },
+  {
+    "redizo": "691003408",
+    "name": "Dům dětí a mládeže Nová generace, Hradec Králové",
+    "type": "JINÉ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691003441",
+    "name": "Mateřská škola MONTESSORI Poděbrady",
+    "type": "MŠ",
+    "city": "Poděbrady",
+    "active": true
+  },
+  {
+    "redizo": "691003611",
+    "name": "Soukromá mateřská škola Jahoda",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691003629",
+    "name": "Speciálně pedagogické centrum Klíč",
+    "type": "JINÉ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691003653",
+    "name": "Mateřská škola Beránek",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691003688",
+    "name": "Mateřská škola Univerzity Palackého v Olomouci",
+    "type": "MŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691003751",
+    "name": "Mateřská škola Montessori Plzeň",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691003815",
+    "name": "Safari Baby Club - mateřská škola",
+    "type": "MŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691003831",
+    "name": "Mateřská škola a Základní škola Slunečnice",
+    "type": "MŠ",
+    "city": "Okrouhlice",
+    "active": true
+  },
+  {
+    "redizo": "691003840",
+    "name": "Základní škola a Mateřská škola Mozaika, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Mnichovice",
+    "active": true
+  },
+  {
+    "redizo": "691004013",
+    "name": "Mateřská škola U Obory",
+    "type": "MŠ",
+    "city": "Veltrusy",
+    "active": true
+  },
+  {
+    "redizo": "691004021",
+    "name": "Mateřská škola BROUČEK",
+    "type": "MŠ",
+    "city": "Bzenec",
+    "active": true
+  },
+  {
+    "redizo": "691004048",
+    "name": "Střední škola Sion High School, Hradec Králové",
+    "type": "SŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691004081",
+    "name": "Mateřská škola FIALKA - v likvidaci",
+    "type": "MŠ",
+    "city": "Chocerady",
+    "active": true
+  },
+  {
+    "redizo": "691004099",
+    "name": "Mateřská škola V Rákosí",
+    "type": "MŠ",
+    "city": "Děčín",
+    "active": true
+  },
+  {
+    "redizo": "691004102",
+    "name": "Zařízení školního stravování, v likvidaci",
+    "type": "JINÉ",
+    "city": "Velim",
+    "active": false
+  },
+  {
+    "redizo": "691004137",
+    "name": "Mateřská škola Dubovice",
+    "type": "MŠ",
+    "city": "Dubovice",
+    "active": true
+  },
+  {
+    "redizo": "691004161",
+    "name": "Základní umělecká škola CAMPANELLA Olomouc",
+    "type": "ZUŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691004196",
+    "name": "Schrödingerův institut - středisko volného času pro Šluknovský výběžek",
+    "type": "JINÉ",
+    "city": "Jiříkov",
+    "active": true
+  },
+  {
+    "redizo": "691004200",
+    "name": "Církevní mateřská škola sv. Jakuba v Kutné Hoře",
+    "type": "MŠ",
+    "city": "Kutná Hora",
+    "active": true
+  },
+  {
+    "redizo": "691004218",
+    "name": "Mateřská škola Montevláček",
+    "type": "MŠ",
+    "city": "Lichnov",
+    "active": true
+  },
+  {
+    "redizo": "691004293",
+    "name": "Mateřská škola a Základní škola NEMO",
+    "type": "MŠ",
+    "city": "Říčany",
+    "active": true
+  },
+  {
+    "redizo": "691004421",
+    "name": "Středisko volného času Narnie",
+    "type": "JINÉ",
+    "city": "Liberec",
+    "active": true
+  },
+  {
+    "redizo": "691004498",
+    "name": "Střední odborné učiliště MAVO EDUCATION",
+    "type": "SŠ",
+    "city": "Vonoklasy",
+    "active": true
+  },
+  {
+    "redizo": "691004668",
+    "name": "Základní škola a Lesní mateřská škola Jurta",
+    "type": "MŠ",
+    "city": "Děčín",
+    "active": true
+  },
+  {
+    "redizo": "691004676",
+    "name": "Univerzitní mateřská škola Hrášek Mendelovy univerzity v Brně",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691004714",
+    "name": "ZAČÍT SPOLU Základní škola a Mateřská škola Kadaň",
+    "type": "MŠ",
+    "city": "Kadaň",
+    "active": true
+  },
+  {
+    "redizo": "691004871",
+    "name": "Základní škola Purkrabka",
+    "type": "ZŠ",
+    "city": "Škvorec",
+    "active": true
+  },
+  {
+    "redizo": "691004889",
+    "name": "Křesťanská základní škola a mateřská škola Litoměřice",
+    "type": "MŠ",
+    "city": "Litoměřice",
+    "active": true
+  },
+  {
+    "redizo": "691004897",
+    "name": "Mateřská škola umělecká - Muška",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691004927",
+    "name": "Střední škola Euroinstitut",
+    "type": "SŠ",
+    "city": "Neprobylice",
+    "active": true
+  },
+  {
+    "redizo": "691004951",
+    "name": "1. soukromá základní škola",
+    "type": "ZŠ",
+    "city": "Újezdeček",
+    "active": true
+  },
+  {
+    "redizo": "691005001",
+    "name": "Základní škola a lesní mateřská škola Čtyřlístek",
+    "type": "MŠ",
+    "city": "Mariánské Lázně",
+    "active": true
+  },
+  {
+    "redizo": "691005117",
+    "name": "Středisko výchovné péče STŘED",
+    "type": "JINÉ",
+    "city": "Moravské Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "691005222",
+    "name": "MRŇOUSKOVA MATEŘSKÁ ŠKOLA",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "691005273",
+    "name": "Mateřská škola KLUBÍČKO",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691005290",
+    "name": "Základní škola a mateřská škola Montessori Ostrava",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "691005303",
+    "name": "Univerzitní mateřská škola Qočna",
+    "type": "MŠ",
+    "city": "Zlín",
+    "active": true
+  },
+  {
+    "redizo": "691005311",
+    "name": "Soukromá mateřská škola Domino",
+    "type": "MŠ",
+    "city": "Ústí nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691005345",
+    "name": "Mateřská škola Jitřenka - Vyžlovka, v likvidaci",
+    "type": "MŠ",
+    "city": "Vyžlovka",
+    "active": true
+  },
+  {
+    "redizo": "691005362",
+    "name": "Univerzitní mateřská škola VŠB-TUO",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "691005427",
+    "name": "Mateřská škola a Základní škola Questo",
+    "type": "MŠ",
+    "city": "Humpolec",
+    "active": true
+  },
+  {
+    "redizo": "691005460",
+    "name": "Církevní mateřská škola Klíček",
+    "type": "MŠ",
+    "city": "Rumburk",
+    "active": true
+  },
+  {
+    "redizo": "691005478",
+    "name": "Mateřská škola Kaštánek",
+    "type": "MŠ",
+    "city": "Trubín",
+    "active": true
+  },
+  {
+    "redizo": "691005486",
+    "name": "Mateřská škola Brandýský Matýsek",
+    "type": "MŠ",
+    "city": "Brandýs nad Labem-Stará Boleslav",
+    "active": true
+  },
+  {
+    "redizo": "691005541",
+    "name": "Almed - zařízení školního stravování",
+    "type": "JINÉ",
+    "city": "Škvorec",
+    "active": true
+  },
+  {
+    "redizo": "691005567",
+    "name": "Mateřská škola a základní škola GAIA",
+    "type": "MŠ",
+    "city": "Bukovany",
+    "active": true
+  },
+  {
+    "redizo": "691005869",
+    "name": "Mateřská škola Majdalenka",
+    "type": "MŠ",
+    "city": "Petřvald",
+    "active": true
+  },
+  {
+    "redizo": "691005893",
+    "name": "Mateřská škola Paleček, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Šenov u Nového Jičína",
+    "active": true
+  },
+  {
+    "redizo": "691006059",
+    "name": "Speciálně pedagogické centrum a zařízení pro další vzdělávání pedagogických pracovníků při NAUTIS",
+    "type": "JINÉ",
+    "city": "Kostomlaty nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691006091",
+    "name": "Základní škola a Mateřská škola Bez hranic",
+    "type": "MŠ",
+    "city": "Mšec",
+    "active": true
+  },
+  {
+    "redizo": "691006164",
+    "name": "Středisko volného času Síť",
+    "type": "JINÉ",
+    "city": "Pacov",
+    "active": true
+  },
+  {
+    "redizo": "691006172",
+    "name": "Základní škola Letokruh",
+    "type": "ZŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691006199",
+    "name": "Církevní gymnázium v Kutné Hoře",
+    "type": "GYM",
+    "city": "Kutná Hora",
+    "active": true
+  },
+  {
+    "redizo": "691006237",
+    "name": "Julinka - mateřská škola logopedická",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691006270",
+    "name": "Základní škola a gymnázium Ježek bez klece",
+    "type": "ZŠ",
+    "city": "Mokrá-Horákov",
+    "active": true
+  },
+  {
+    "redizo": "691006334",
+    "name": "Montessori Zlín - základní škola a mateřská škola Motýlek",
+    "type": "MŠ",
+    "city": "Zlín",
+    "active": true
+  },
+  {
+    "redizo": "691006351",
+    "name": "Základní škola Montessori Plzeň",
+    "type": "ZŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691006377",
+    "name": "Základní škola speciální Neratov",
+    "type": "ZŠ",
+    "city": "Bartošovice v Orlických horách",
+    "active": true
+  },
+  {
+    "redizo": "691006385",
+    "name": "Mateřská škola Borůvka",
+    "type": "MŠ",
+    "city": "Šumperk",
+    "active": true
+  },
+  {
+    "redizo": "691006431",
+    "name": "Křesťanská pedagogicko-psychologická poradna Brno",
+    "type": "JINÉ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691006440",
+    "name": "Církevní mateřská škola Loďka",
+    "type": "MŠ",
+    "city": "Český Těšín",
+    "active": true
+  },
+  {
+    "redizo": "691006474",
+    "name": "Základní škola a  Střední škola JEDNA RADOST Pňov-Předhradí",
+    "type": "ZŠ",
+    "city": "Pňov-Předhradí",
+    "active": true
+  },
+  {
+    "redizo": "691006521",
+    "name": "Hořické gymnázium",
+    "type": "GYM",
+    "city": "Hořice",
+    "active": true
+  },
+  {
+    "redizo": "691006580",
+    "name": "Středisko výchovné péče Svitavska",
+    "type": "JINÉ",
+    "city": "Květná",
+    "active": true
+  },
+  {
+    "redizo": "691006601",
+    "name": "Základní škola Cesta",
+    "type": "ZŠ",
+    "city": "Písek",
+    "active": true
+  },
+  {
+    "redizo": "691006652",
+    "name": "Mateřská škola při Národním ústavu pro autismus",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691006661",
+    "name": "Soukromá mateřská škola Medová školka",
+    "type": "MŠ",
+    "city": "Moravičany",
+    "active": true
+  },
+  {
+    "redizo": "691006741",
+    "name": "Mateřská škola Bublinka",
+    "type": "MŠ",
+    "city": "Vysoké Chvojno",
+    "active": true
+  },
+  {
+    "redizo": "691006849",
+    "name": "Mateřská škola sv. Zdislavy Litoměřice",
+    "type": "MŠ",
+    "city": "Litoměřice",
+    "active": true
+  },
+  {
+    "redizo": "691006903",
+    "name": "Mateřská škola a Základní škola Na rovině v Chrudimi",
+    "type": "MŠ",
+    "city": "Chrudim",
+    "active": true
+  },
+  {
+    "redizo": "691006911",
+    "name": "Mateřská škola Začít spolu",
+    "type": "MŠ",
+    "city": "Broumov",
+    "active": true
+  },
+  {
+    "redizo": "691006920",
+    "name": "Mateřská škola Malý svět",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691007071",
+    "name": "Základní škola a Mateřská škola KUBUKI",
+    "type": "MŠ",
+    "city": "Bolešiny",
+    "active": true
+  },
+  {
+    "redizo": "691007209",
+    "name": "Soukromá mateřská škola Sluníčko Ostrava Poruba",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "691007268",
+    "name": "Speciální mateřská škola Vilík",
+    "type": "MŠ",
+    "city": "Děčín",
+    "active": true
+  },
+  {
+    "redizo": "691007276",
+    "name": "Základní škola a mateřská škola Jeřabinka",
+    "type": "MŠ",
+    "city": "Litvínov",
+    "active": true
+  },
+  {
+    "redizo": "691007365",
+    "name": "Středisko volného času Kroužky pro děti ČR",
+    "type": "JINÉ",
+    "city": "Čestlice",
+    "active": true
+  },
+  {
+    "redizo": "691007403",
+    "name": "Mateřská škola Studánka u sv. Jakuba",
+    "type": "MŠ",
+    "city": "Červený Kostelec",
+    "active": true
+  },
+  {
+    "redizo": "691007501",
+    "name": "Odborné učiliště Kanina - v likvidaci",
+    "type": "JINÉ",
+    "city": "Kanina",
+    "active": true
+  },
+  {
+    "redizo": "691007527",
+    "name": "Středisko volného času a Zařízení pro další vzdělávání pedagogických pracovníků Kroužky pro děti Praha",
+    "type": "JINÉ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691007535",
+    "name": "Mateřská škola Diakonie ČCE Cheb",
+    "type": "MŠ",
+    "city": "Cheb",
+    "active": true
+  },
+  {
+    "redizo": "691007586",
+    "name": "Základní škola ZaHRAda",
+    "type": "ZŠ",
+    "city": "Tišnov",
+    "active": true
+  },
+  {
+    "redizo": "691007632",
+    "name": "Lesní mateřská škola a základní škola Devětsil",
+    "type": "MŠ",
+    "city": "Kamenice",
+    "active": true
+  },
+  {
+    "redizo": "691007659",
+    "name": "Základní škola SMART",
+    "type": "ZŠ",
+    "city": "Roudnice nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691007870",
+    "name": "Mateřská škola Lounská",
+    "type": "MŠ",
+    "city": "Teplice",
+    "active": true
+  },
+  {
+    "redizo": "691007896",
+    "name": "Mateřská škola Zahrádka sv. Františka",
+    "type": "MŠ",
+    "city": "Šlapanice",
+    "active": true
+  },
+  {
+    "redizo": "691007969",
+    "name": "Euroinstitut, praktická škola a odborné učiliště",
+    "type": "JINÉ",
+    "city": "Panenský Týnec",
+    "active": true
+  },
+  {
+    "redizo": "691007985",
+    "name": "Centrum odborné přípravy Vincenze Priessnitze v gastronomických a potravinářských oborech - středisko praktického vyučování - v likvidaci",
+    "type": "JINÉ",
+    "city": "Jeseník",
+    "active": true
+  },
+  {
+    "redizo": "691008027",
+    "name": "Anglicko - česká mateřská škola YMCA - v likvidaci",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": false
+  },
+  {
+    "redizo": "691008051",
+    "name": "Mateřská škola Domeček, v likvidaci",
+    "type": "MŠ",
+    "city": "Havlíčkův Brod",
+    "active": false
+  },
+  {
+    "redizo": "691008094",
+    "name": "Základní škola Prameny",
+    "type": "ZŠ",
+    "city": "Rousínov",
+    "active": true
+  },
+  {
+    "redizo": "691008124",
+    "name": "Základní umělecká škola Vojtěch",
+    "type": "ZUŠ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "691008370",
+    "name": "Základní škola Na Pohodu",
+    "type": "ZŠ",
+    "city": "Lužice",
+    "active": true
+  },
+  {
+    "redizo": "691008400",
+    "name": "Mateřská škola Světluška Brno",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691008426",
+    "name": "Heřmánek Praha, základní škola, gymnázium a střední pedagogická škola, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691008574",
+    "name": "Husova základní škola a mateřská škola SMĚROVKA",
+    "type": "MŠ",
+    "city": "Hostivice",
+    "active": true
+  },
+  {
+    "redizo": "691008591",
+    "name": "Kouzelná mateřská škola - v likvidaci",
+    "type": "MŠ",
+    "city": "Chomutov",
+    "active": true
+  },
+  {
+    "redizo": "691008621",
+    "name": "Mateřská škola LVÍČEK",
+    "type": "MŠ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "691008744",
+    "name": "Středisko volného času Dobřichovický domek",
+    "type": "JINÉ",
+    "city": "Dobřichovice",
+    "active": true
+  },
+  {
+    "redizo": "691008752",
+    "name": "Domov mládeže Mozaika, školská právnická osoba",
+    "type": "JINÉ",
+    "city": "Mnichovice",
+    "active": true
+  },
+  {
+    "redizo": "691008931",
+    "name": "Základní škola Hučák",
+    "type": "ZŠ",
+    "city": "Lochenice",
+    "active": true
+  },
+  {
+    "redizo": "691008949",
+    "name": "Základní škola Mraveniště",
+    "type": "ZŠ",
+    "city": "Velké Svatoňovice",
+    "active": true
+  },
+  {
+    "redizo": "691009058",
+    "name": "Základní škola Na Radosti",
+    "type": "ZŠ",
+    "city": "Žďár nad Sázavou",
+    "active": true
+  },
+  {
+    "redizo": "691009082",
+    "name": "Základní škola TRNKA",
+    "type": "ZŠ",
+    "city": "Dobříš",
+    "active": true
+  },
+  {
+    "redizo": "691009091",
+    "name": "Střední škola Euroinstitut v Karlovarském kraji",
+    "type": "SŠ",
+    "city": "Aš",
+    "active": true
+  },
+  {
+    "redizo": "691009121",
+    "name": "Mateřská škola Jabula",
+    "type": "MŠ",
+    "city": "Moravské Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "691009139",
+    "name": "Základní škola, střední škola a mateřská škola V Oboře",
+    "type": "MŠ",
+    "city": "Bradlec",
+    "active": true
+  },
+  {
+    "redizo": "691009198",
+    "name": "Střední škola Euroinstitut v Olomouckém kraji",
+    "type": "SŠ",
+    "city": "Němčice nad Hanou",
+    "active": true
+  },
+  {
+    "redizo": "691009228",
+    "name": "Základní škola Erudio Orlicko",
+    "type": "ZŠ",
+    "city": "Žamberk",
+    "active": true
+  },
+  {
+    "redizo": "691009244",
+    "name": "Základní škola V Pohybu",
+    "type": "ZŠ",
+    "city": "Ráby",
+    "active": true
+  },
+  {
+    "redizo": "691009287",
+    "name": "Soukromá základní škola Dobré nálady, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691009317",
+    "name": "Základní škola ŠKOLAMYŠL",
+    "type": "ZŠ",
+    "city": "Litomyšl",
+    "active": true
+  },
+  {
+    "redizo": "691009350",
+    "name": "Základní škola Arkáda",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691009431",
+    "name": "Soukromá mateřská škola U Myšáka - Chomutov",
+    "type": "MŠ",
+    "city": "Chomutov",
+    "active": true
+  },
+  {
+    "redizo": "691009473",
+    "name": "Soukromá základní škola a mateřská škola, Úlibice, okres Jičín",
+    "type": "MŠ",
+    "city": "Úlibice",
+    "active": true
+  },
+  {
+    "redizo": "691009481",
+    "name": "ZÁKLADNÍ ŠKOLA PROSPERITY",
+    "type": "ZŠ",
+    "city": "Třebovle",
+    "active": true
+  },
+  {
+    "redizo": "691009821",
+    "name": "Mateřská škola ProFamily Mratín",
+    "type": "MŠ",
+    "city": "Mratín",
+    "active": true
+  },
+  {
+    "redizo": "691009864",
+    "name": "Středisko volného času RADOST ZLÍN",
+    "type": "JINÉ",
+    "city": "Staré Město",
+    "active": true
+  },
+  {
+    "redizo": "691009929",
+    "name": "Anglicko-česká mateřská škola Daisy, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Přerov",
+    "active": true
+  },
+  {
+    "redizo": "691009988",
+    "name": "Základní škola Vyžlovka",
+    "type": "ZŠ",
+    "city": "Vyžlovka",
+    "active": true
+  },
+  {
+    "redizo": "691010234",
+    "name": "Lesní mateřská škola Na Větvi",
+    "type": "MŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691010307",
+    "name": "FLOW - Základní umělecká škola a Středisko volného času",
+    "type": "ZUŠ",
+    "city": "Čestlice",
+    "active": true
+  },
+  {
+    "redizo": "691010382",
+    "name": "Lesní mateřská škola Studánka",
+    "type": "MŠ",
+    "city": "Beroun",
+    "active": true
+  },
+  {
+    "redizo": "691010439",
+    "name": "Lesní mateřská škola a základní škola Vlásenický dvůr",
+    "type": "MŠ",
+    "city": "Nová Cerekev",
+    "active": true
+  },
+  {
+    "redizo": "691010447",
+    "name": "Lesní mateřská škola Jelínek",
+    "type": "MŠ",
+    "city": "Kunštát",
+    "active": true
+  },
+  {
+    "redizo": "691010480",
+    "name": "Lesní mateřská škola V Závětří",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691010528",
+    "name": "Lesní mateřská škola Mariánka",
+    "type": "MŠ",
+    "city": "Pozořice",
+    "active": true
+  },
+  {
+    "redizo": "691010544",
+    "name": "Základní škola Pivoňka",
+    "type": "ZŠ",
+    "city": "Chříč",
+    "active": true
+  },
+  {
+    "redizo": "691010579",
+    "name": "Waldorfská základní škola Mistra Jana",
+    "type": "ZŠ",
+    "city": "Ratibořské Hory",
+    "active": true
+  },
+  {
+    "redizo": "691010609",
+    "name": "Montessori základní škola Úsměv",
+    "type": "ZŠ",
+    "city": "Havířov",
+    "active": true
+  },
+  {
+    "redizo": "691010668",
+    "name": "Základní škola Křišťál",
+    "type": "ZŠ",
+    "city": "Jaroměř",
+    "active": true
+  },
+  {
+    "redizo": "691010820",
+    "name": "Základní škola a lesní mateřská škola Na dvorečku",
+    "type": "MŠ",
+    "city": "Černošice",
+    "active": true
+  },
+  {
+    "redizo": "691010897",
+    "name": "Lesní mateřská škola Šemíček",
+    "type": "MŠ",
+    "city": "Řícmanice",
+    "active": true
+  },
+  {
+    "redizo": "691010901",
+    "name": "Základní škola Hůrka",
+    "type": "ZŠ",
+    "city": "Kutná Hora",
+    "active": true
+  },
+  {
+    "redizo": "691010986",
+    "name": "Svazková základní škola Panská pole",
+    "type": "ZŠ",
+    "city": "Přezletice",
+    "active": true
+  },
+  {
+    "redizo": "691010994",
+    "name": "Lesní mateřská škola Sýkorka - Frank Bold Kids",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691011109",
+    "name": "Lesní mateřská škola DUHOVKA, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Vlčice",
+    "active": true
+  },
+  {
+    "redizo": "691011231",
+    "name": "Mateřská škola Štědřík",
+    "type": "MŠ",
+    "city": "Psáry",
+    "active": true
+  },
+  {
+    "redizo": "691011273",
+    "name": "Střední škola Euroinstitut v Praze",
+    "type": "SŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691011338",
+    "name": "Základní škola Amos",
+    "type": "ZŠ",
+    "city": "Psáry",
+    "active": true
+  },
+  {
+    "redizo": "691011575",
+    "name": "Mateřská škola při Nemocnici u Sv. Jiří",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691011672",
+    "name": "Techmania, mateřská škola, školská právnická osoba - v likvidaci",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691011681",
+    "name": "Lesní mateřská škola Sluněnka, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691011699",
+    "name": "Lesní mateřská škola Bažinka, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Horka nad Moravou",
+    "active": true
+  },
+  {
+    "redizo": "691011737",
+    "name": "Základní škola a Mateřská škola ABA",
+    "type": "MŠ",
+    "city": "Cerhenice",
+    "active": true
+  },
+  {
+    "redizo": "691012008",
+    "name": "Křesťanská základní škola a základní umělecká škola Karmel",
+    "type": "ZŠ",
+    "city": "Ústí nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691012091",
+    "name": "Lesní mateřská škola Medvíďata",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691012105",
+    "name": "Střední odborná škola svatého Jana Boska",
+    "type": "SŠ",
+    "city": "Kroměříž",
+    "active": true
+  },
+  {
+    "redizo": "691012148",
+    "name": "Základní škola Molekula",
+    "type": "ZŠ",
+    "city": "Teplice",
+    "active": true
+  },
+  {
+    "redizo": "691012164",
+    "name": "Evangelické gymnázium a základní škola Brno, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691012181",
+    "name": "Křesťanská pedagogicko-psychologická poradna Plzeň",
+    "type": "JINÉ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691012369",
+    "name": "Soukromá základní umělecká škola Natanael",
+    "type": "ZUŠ",
+    "city": "Horní Dvořiště",
+    "active": true
+  },
+  {
+    "redizo": "691012377",
+    "name": "Lesní mateřská škola a základní škola Sofisa",
+    "type": "MŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691012474",
+    "name": "Základní škola Na horu",
+    "type": "ZŠ",
+    "city": "Jilemnice",
+    "active": true
+  },
+  {
+    "redizo": "691012580",
+    "name": "Středisko volného času Pro dětský úsměv z východních Čech",
+    "type": "JINÉ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691012652",
+    "name": "Jubilejní základní škola svatováclavská ve Strýčicích",
+    "type": "ZŠ",
+    "city": "Strýčice",
+    "active": true
+  },
+  {
+    "redizo": "691012768",
+    "name": "Základní škola bratří Fričů Ondřejov",
+    "type": "ZŠ",
+    "city": "Ondřejov",
+    "active": true
+  },
+  {
+    "redizo": "691012784",
+    "name": "Školské poradenské zařízení SPC a zařízení pro další vzdělávání pedagogických pracovníků",
+    "type": "JINÉ",
+    "city": "Slaný",
+    "active": true
+  },
+  {
+    "redizo": "691012890",
+    "name": "Základní škola Eduard",
+    "type": "ZŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691012946",
+    "name": "Lesní mateřská škola Hlubáček",
+    "type": "MŠ",
+    "city": "Holice",
+    "active": true
+  },
+  {
+    "redizo": "691013012",
+    "name": "Základní škola Slunovrat",
+    "type": "ZŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691013128",
+    "name": "Svazková mateřská škola VENKOV",
+    "type": "MŠ",
+    "city": "Železné",
+    "active": true
+  },
+  {
+    "redizo": "691013225",
+    "name": "Základní škola Comenius",
+    "type": "ZŠ",
+    "city": "Hradec Králové",
+    "active": true
+  },
+  {
+    "redizo": "691013268",
+    "name": "Montessori Základní škola Pampeliška",
+    "type": "ZŠ",
+    "city": "Tábor",
+    "active": true
+  },
+  {
+    "redizo": "691013306",
+    "name": "Lesní mateřská škola Větvička",
+    "type": "MŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691013331",
+    "name": "Školské poradenské zařízení - SPC a PPP Koloběžka",
+    "type": "JINÉ",
+    "city": "Kladno",
+    "active": true
+  },
+  {
+    "redizo": "691013357",
+    "name": "Montessori střední škola, základní škola a mateřská škola Polná",
+    "type": "MŠ",
+    "city": "Polná",
+    "active": true
+  },
+  {
+    "redizo": "691013390",
+    "name": "Kids English Academy - Základní škola  - v Insolvenci",
+    "type": "ZŠ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "691013586",
+    "name": "Základní škola Erazim 2",
+    "type": "ZŠ",
+    "city": "Ústí nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691013748",
+    "name": "Lesní mateřská škola Sasanka",
+    "type": "MŠ",
+    "city": "Hradec",
+    "active": true
+  },
+  {
+    "redizo": "691013802",
+    "name": "Základní škola a Střední škola CoLibri",
+    "type": "ZŠ",
+    "city": "Sentice",
+    "active": true
+  },
+  {
+    "redizo": "691013837",
+    "name": "Metropolitní gymnázium - v likvidaci",
+    "type": "GYM",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691013845",
+    "name": "Lesní mateřská škola Vrabčí hnízdo",
+    "type": "MŠ",
+    "city": "Ludgeřovice",
+    "active": true
+  },
+  {
+    "redizo": "691013853",
+    "name": "Základní škola Montessori Kyjov",
+    "type": "ZŠ",
+    "city": "Kyjov",
+    "active": true
+  },
+  {
+    "redizo": "691013888",
+    "name": "Základní škola Spolu",
+    "type": "ZŠ",
+    "city": "Nové Město na Moravě",
+    "active": true
+  },
+  {
+    "redizo": "691013896",
+    "name": "Církevní základní škola Německého řádu",
+    "type": "ZŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691013900",
+    "name": "Základní škola Elanor",
+    "type": "ZŠ",
+    "city": "Hrádek",
+    "active": true
+  },
+  {
+    "redizo": "691013942",
+    "name": "Církevní základní škola mistra Jana Husa",
+    "type": "ZŠ",
+    "city": "Rakovník",
+    "active": true
+  },
+  {
+    "redizo": "691013977",
+    "name": "Základní škola a mateřská škola Erazim 1",
+    "type": "MŠ",
+    "city": "Opava",
+    "active": true
+  },
+  {
+    "redizo": "691014019",
+    "name": "Podkrušnohorská svobodná Základní škola a Mateřská škola",
+    "type": "MŠ",
+    "city": "Údlice",
+    "active": true
+  },
+  {
+    "redizo": "691014027",
+    "name": "Základní umělecká škola Allegro",
+    "type": "ZUŠ",
+    "city": "Nová Včelnice",
+    "active": true
+  },
+  {
+    "redizo": "691014035",
+    "name": "Základní škola EQ",
+    "type": "ZŠ",
+    "city": "Havlíčkův Brod",
+    "active": true
+  },
+  {
+    "redizo": "691014213",
+    "name": "Lesní mateřská škola Envíček",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691014272",
+    "name": "Základní škola Celým srdcem",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691014337",
+    "name": "Dům dětí a mládeže Německého řádu Opava",
+    "type": "JINÉ",
+    "city": "Opava",
+    "active": true
+  },
+  {
+    "redizo": "691014434",
+    "name": "Firemní mateřská škola Krajské nemocnice T. Bati ve Zlíně",
+    "type": "MŠ",
+    "city": "Zlín",
+    "active": true
+  },
+  {
+    "redizo": "691014451",
+    "name": "Montessori lesní mateřská škola Ledňáček",
+    "type": "MŠ",
+    "city": "Tišnov",
+    "active": true
+  },
+  {
+    "redizo": "691014485",
+    "name": "Lesní mateřská škola Lesokruh",
+    "type": "MŠ",
+    "city": "Třebechovice pod Orebem",
+    "active": true
+  },
+  {
+    "redizo": "691014515",
+    "name": "Lesní mateřská škola Stromík",
+    "type": "MŠ",
+    "city": "Pozořice",
+    "active": true
+  },
+  {
+    "redizo": "691014566",
+    "name": "Mateřská škola, základní škola a gymnázium VIA BEROUN",
+    "type": "MŠ",
+    "city": "Beroun",
+    "active": true
+  },
+  {
+    "redizo": "691014671",
+    "name": "Základní škola Sedmihlásek",
+    "type": "ZŠ",
+    "city": "Roztoky",
+    "active": true
+  },
+  {
+    "redizo": "691014701",
+    "name": "Střední škola pedagogická a sociálně právní a střední zdravotnická škola Jana Blahoslava",
+    "type": "SŠ",
+    "city": "Hejnice",
+    "active": true
+  },
+  {
+    "redizo": "691014809",
+    "name": "Základní škola Sami-sebou",
+    "type": "ZŠ",
+    "city": "Krupka",
+    "active": true
+  },
+  {
+    "redizo": "691014876",
+    "name": "Základní škola NaŽivo",
+    "type": "ZŠ",
+    "city": "Květná",
+    "active": true
+  },
+  {
+    "redizo": "691014914",
+    "name": "Osvobozená základní škola",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691014957",
+    "name": "Základní škola a Lesní mateřská škola Horní Mlýn",
+    "type": "MŠ",
+    "city": "Chotěboř",
+    "active": true
+  },
+  {
+    "redizo": "691014981",
+    "name": "U2B | multimediální střední škola",
+    "type": "SŠ",
+    "city": "Buštěhrad",
+    "active": true
+  },
+  {
+    "redizo": "691015058",
+    "name": "Lesní mateřská škola Letokvítek",
+    "type": "MŠ",
+    "city": "Letohrad",
+    "active": true
+  },
+  {
+    "redizo": "691015104",
+    "name": "Lesní mateřská škola Boreček",
+    "type": "MŠ",
+    "city": "Borek",
+    "active": true
+  },
+  {
+    "redizo": "691015112",
+    "name": "Mateřská škola a Základní škola Na rovině v České Třebové",
+    "type": "MŠ",
+    "city": "Česká Třebová",
+    "active": true
+  },
+  {
+    "redizo": "691015121",
+    "name": "Waldorfská základní škola a mateřská škola Cheb",
+    "type": "MŠ",
+    "city": "Cheb",
+    "active": true
+  },
+  {
+    "redizo": "691015139",
+    "name": "ZÁKLADNÍ ŠKOLA A MATEŘSKÁ ŠKOLA NA STATKU, školská právnická osoba",
+    "type": "MŠ",
+    "city": "Drahelčice",
+    "active": true
+  },
+  {
+    "redizo": "691015155",
+    "name": "Lesní mateřská škola Divočina",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691015392",
+    "name": "Lesní mateřská škola Na Pasece",
+    "type": "MŠ",
+    "city": "Zlín",
+    "active": true
+  },
+  {
+    "redizo": "691015422",
+    "name": "Mateřská škola Lotty",
+    "type": "MŠ",
+    "city": "Prachatice",
+    "active": true
+  },
+  {
+    "redizo": "691015490",
+    "name": "Lesní mateřská škola Žijem lesem",
+    "type": "MŠ",
+    "city": "Tábor",
+    "active": true
+  },
+  {
+    "redizo": "691015619",
+    "name": "Školní jídelna Lotty",
+    "type": "JINÉ",
+    "city": "České Budějovice",
+    "active": true
+  },
+  {
+    "redizo": "691015635",
+    "name": "Základní škola a Mateřská škola MOVERE",
+    "type": "MŠ",
+    "city": "Kralupy nad Vltavou",
+    "active": true
+  },
+  {
+    "redizo": "691015643",
+    "name": "Lesní mateřská škola Šiška",
+    "type": "MŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691015660",
+    "name": "Základní škola Vážka",
+    "type": "ZŠ",
+    "city": "Telč",
+    "active": true
+  },
+  {
+    "redizo": "691015708",
+    "name": "Svazková základní škola Povýmolí",
+    "type": "ZŠ",
+    "city": "Jirny",
+    "active": true
+  },
+  {
+    "redizo": "691015732",
+    "name": "Základní škola Lokahi",
+    "type": "ZŠ",
+    "city": "Chotěbuz",
+    "active": true
+  },
+  {
+    "redizo": "691015741",
+    "name": "Lesní mateřská škola Zahrádka Troja",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691015805",
+    "name": "Střední škola a základní škola Arktur",
+    "type": "ZŠ",
+    "city": "Trboušany",
+    "active": true
+  },
+  {
+    "redizo": "691015821",
+    "name": "Církevní mateřská škola a základní škola Sudice",
+    "type": "MŠ",
+    "city": "Sudice",
+    "active": true
+  },
+  {
+    "redizo": "691015872",
+    "name": "Lesní mateřská škola Kudlibabka",
+    "type": "MŠ",
+    "city": "Spešov",
+    "active": true
+  },
+  {
+    "redizo": "691015881",
+    "name": "Gymnázium ARTION",
+    "type": "GYM",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691015929",
+    "name": "Základní škola a Lesní mateřská škola Hnízdo - škola, která voní lesem",
+    "type": "MŠ",
+    "city": "Ostravice",
+    "active": true
+  },
+  {
+    "redizo": "691015937",
+    "name": "Základní škola a gymnázium Leonardo V. Academy",
+    "type": "ZŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691016101",
+    "name": "Základní škola Škola na cestách",
+    "type": "ZŠ",
+    "city": "Jindřichův Hradec",
+    "active": true
+  },
+  {
+    "redizo": "691016267",
+    "name": "Svazková Základní škola Tursko - Holubice",
+    "type": "ZŠ",
+    "city": "Tursko",
+    "active": true
+  },
+  {
+    "redizo": "691016283",
+    "name": "Lesní mateřská škola Hůrka",
+    "type": "MŠ",
+    "city": "Kutná Hora",
+    "active": true
+  },
+  {
+    "redizo": "691016437",
+    "name": "Základní škola Spirála",
+    "type": "ZŠ",
+    "city": "Rychnov nad Kněžnou",
+    "active": true
+  },
+  {
+    "redizo": "691016453",
+    "name": "Mateřská škola Velrybka",
+    "type": "MŠ",
+    "city": "Rychnov nad Kněžnou",
+    "active": true
+  },
+  {
+    "redizo": "691016488",
+    "name": "Základní škola a lesní mateřská škola Bystrouška",
+    "type": "MŠ",
+    "city": "Pavlov",
+    "active": true
+  },
+  {
+    "redizo": "691016542",
+    "name": "Církevní mateřská škola Světluška",
+    "type": "MŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "691016577",
+    "name": "NEOnová základní škola",
+    "type": "ZŠ",
+    "city": "Aš",
+    "active": true
+  },
+  {
+    "redizo": "691016658",
+    "name": "Základní škola zítřka",
+    "type": "ZŠ",
+    "city": "Česká Třebová",
+    "active": true
+  },
+  {
+    "redizo": "691016674",
+    "name": "Bobova škola - Bilingvní soukromá základní škola, Hlízov",
+    "type": "ZŠ",
+    "city": "Hlízov",
+    "active": true
+  },
+  {
+    "redizo": "691016780",
+    "name": "Základní škola Pošembeří",
+    "type": "ZŠ",
+    "city": "Český Brod",
+    "active": true
+  },
+  {
+    "redizo": "691017093",
+    "name": "Lesní mateřská škola Felbiánek",
+    "type": "MŠ",
+    "city": "Felbabka",
+    "active": true
+  },
+  {
+    "redizo": "691017107",
+    "name": "Lesní mateřská škola Lesinka",
+    "type": "MŠ",
+    "city": "Ochoz u Brna",
+    "active": true
+  },
+  {
+    "redizo": "691017182",
+    "name": "Lesní mateřská škola Petrklíč",
+    "type": "MŠ",
+    "city": "Blatnice pod Svatým Antonínkem",
+    "active": true
+  },
+  {
+    "redizo": "691017221",
+    "name": "Základní škola Erazim 4",
+    "type": "ZŠ",
+    "city": "Polná",
+    "active": true
+  },
+  {
+    "redizo": "691017484",
+    "name": "Základní škola Xavier",
+    "type": "ZŠ",
+    "city": "Ústí nad Labem",
+    "active": true
+  },
+  {
+    "redizo": "691017506",
+    "name": "Základní škola Open school Karviná",
+    "type": "ZŠ",
+    "city": "Karviná",
+    "active": true
+  },
+  {
+    "redizo": "691017590",
+    "name": "Církevní mateřská škola Německého řádu",
+    "type": "MŠ",
+    "city": "Bruntál",
+    "active": true
+  },
+  {
+    "redizo": "691017727",
+    "name": "Základní škola Erazim 8",
+    "type": "ZŠ",
+    "city": "Valašské Klobouky",
+    "active": true
+  },
+  {
+    "redizo": "691017778",
+    "name": "Základní škola Žlutý trpaslík",
+    "type": "ZŠ",
+    "city": "Unhošť",
+    "active": true
+  },
+  {
+    "redizo": "691017808",
+    "name": "Základní škola Alma",
+    "type": "ZŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691017816",
+    "name": "Škola Vila, základní škola",
+    "type": "ZŠ",
+    "city": "Sokolov",
+    "active": true
+  },
+  {
+    "redizo": "691017824",
+    "name": "Mateřská škola Komínek",
+    "type": "MŠ",
+    "city": "Praha",
+    "active": true
+  },
+  {
+    "redizo": "691017883",
+    "name": "Základní škola Radost",
+    "type": "ZŠ",
+    "city": "Letohrad",
+    "active": true
+  },
+  {
+    "redizo": "691018014",
+    "name": "Základní škola Prostor",
+    "type": "ZŠ",
+    "city": "Most",
+    "active": true
+  },
+  {
+    "redizo": "691018049",
+    "name": "Dobroškola - soukromá základní škola",
+    "type": "ZŠ",
+    "city": "Dobroměřice",
+    "active": true
+  },
+  {
+    "redizo": "691018081",
+    "name": "Základní škola Erazim 14",
+    "type": "ZŠ",
+    "city": "Brno",
+    "active": true
+  },
+  {
+    "redizo": "691018103",
+    "name": "Lesní mateřská škola Napísek",
+    "type": "MŠ",
+    "city": "Čistá",
+    "active": true
+  },
+  {
+    "redizo": "691018154",
+    "name": "Lesní mateřská škola sv. Františka",
+    "type": "MŠ",
+    "city": "Pardubice",
+    "active": true
+  },
+  {
+    "redizo": "691018197",
+    "name": "Střední škola Montessori Plzeň",
+    "type": "SŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691018383",
+    "name": "Inovativní základní škola Sofisa",
+    "type": "ZŠ",
+    "city": "Olomouc",
+    "active": true
+  },
+  {
+    "redizo": "691018537",
+    "name": "Lesní mateřská škola Lechůvka",
+    "type": "MŠ",
+    "city": "Plenkovice",
+    "active": true
+  },
+  {
+    "redizo": "691018634",
+    "name": "Střední škola Montessori lyceum Ostrava",
+    "type": "SŠ",
+    "city": "Ostrava",
+    "active": true
+  },
+  {
+    "redizo": "691018880",
+    "name": "Svazková základní škola LOŠBATES",
+    "type": "ZŠ",
+    "city": "Louňovice",
+    "active": true
+  },
+  {
+    "redizo": "691018898",
+    "name": "Svazková základní škola Pod Beckovem",
+    "type": "ZŠ",
+    "city": "Líbeznice",
+    "active": true
+  },
+  {
+    "redizo": "691018901",
+    "name": "Základní škola Vilekula Teplice",
+    "type": "ZŠ",
+    "city": "Teplice",
+    "active": true
+  },
+  {
+    "redizo": "691018910",
+    "name": "Základní škola DRAK",
+    "type": "ZŠ",
+    "city": "Zdiby",
+    "active": true
+  },
+  {
+    "redizo": "691018995",
+    "name": "Základní škola VIDA",
+    "type": "ZŠ",
+    "city": "Chýně",
+    "active": true
+  },
+  {
+    "redizo": "691019151",
+    "name": "Základní škola IMJ Humpolec",
+    "type": "ZŠ",
+    "city": "Humpolec",
+    "active": true
+  },
+  {
+    "redizo": "691019266",
+    "name": "Základní škola Erazim 9",
+    "type": "ZŠ",
+    "city": "Plzeň",
+    "active": true
+  },
+  {
+    "redizo": "691019274",
+    "name": "Základní škola Leela",
+    "type": "ZŠ",
+    "city": "Stráž",
+    "active": true
+  },
+  {
+    "redizo": "691019363",
+    "name": "Základní umělecká škola Olympus Musicus - International School of Art",
+    "type": "ZUŠ",
+    "city": "Ptice",
+    "active": true
+  },
+  {
+    "redizo": "691019398",
+    "name": "Základní škola Divukraj",
+    "type": "ZŠ",
+    "city": "Starý Plzenec",
+    "active": true
+  },
+  {
+    "redizo": "691019401",
+    "name": "Základní škola Erazim 7",
+    "type": "ZŠ",
+    "city": "Valtice",
+    "active": true
+  },
+  {
+    "redizo": "691019410",
+    "name": "Základní škola Libera",
+    "type": "ZŠ",
+    "city": "Višňové",
+    "active": true
+  },
+  {
+    "redizo": "691019428",
+    "name": "Základní škola Pura Vida, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Žernovník",
+    "active": true
+  },
+  {
+    "redizo": "691019452",
+    "name": "Základní škola Erazim 3, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Týn nad Vltavou",
+    "active": true
+  },
+  {
+    "redizo": "691019835",
+    "name": "Základní škola Svobodná země, školská právnická osoba",
+    "type": "ZŠ",
+    "city": "Česká Kamenice",
+    "active": true
+  }
+]

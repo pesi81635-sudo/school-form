@@ -1,0 +1,29 @@
+.autocomplete-wrapper {
+  position: relative;
+  max-width: 500px;
+}
+
+#school-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 240px;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+#school-suggestions li {
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+#school-suggestions li:hover,
+#school-suggestions li.active {
+  background-color: #f0f0f0;
+}
